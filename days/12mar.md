@@ -1,4 +1,7 @@
-## 12th March (Monday)
+---
+layout: page
+title: 12th March (Monday)
+---
 
 Information:
 
@@ -6,7 +9,3 @@ Information:
 - Buy Suica/pasmo for train to Narita Station
 - Set up Japan Rail Pass?
 - Check into hotel
-
-
-
-
