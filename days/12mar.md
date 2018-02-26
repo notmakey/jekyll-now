@@ -3,7 +3,7 @@ layout: page
 title: 12th March (Monday)
 published: true
 ---
-_Melbourne- Tullamarine to Japan - Narita Airport_
+_Melbourne - Tullamarine to Japan - Narita Airport_
 
 
 **Information:**
