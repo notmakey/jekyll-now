@@ -17,7 +17,7 @@ _Japan - Tokyo (Ueno)_
 
 Picnic Lunch at Ueno Park
 
-9:30-4:30 [Ueno Tōshō-gū](/locations/uenoshrine.md) (¥500)
+9:30-4:30 [Ueno Tōshō-gū](/locations/uenoshrine) (¥500)
 
 
 Tokyo national museum
