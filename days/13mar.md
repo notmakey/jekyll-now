@@ -5,7 +5,7 @@ published: true
 ---
 _Japan - Tokyo (Ueno)_
 
-**Information:**
+### **Information:**
 
 - Checkout @ 10 AM
 - Ticket for bus into Tokyo Station
@@ -15,11 +15,11 @@ _Japan - Tokyo (Ueno)_
 
 **Sightseeing:**
 
-_12-2PM:_ Picnic Lunch at Ueno Park
+Picnic Lunch at Ueno Park
 
-Ueno tosho-gu shrine
-9:30-4:30
-(¥500)
+9:30-4:30 [Ueno Tōshō-gū](/locations/uenoshrine.md) (¥500)
+
+
 Tokyo national museum
 9:30am-5pm
 (¥640)
