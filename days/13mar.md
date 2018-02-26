@@ -3,14 +3,40 @@ layout: page
 title: 13th March (Tuesday)
 published: true
 ---
-_Melbourne - Tullamarine to Japan - Narita Airport_
-
+_Japan - Tokyo (Ueno)_
 
 **Information:**
 
-- Arrive at airport
-- Buy Suica/pasmo for train to Narita Station
-- Set up Japan Rail Pass?
-- Check into hotel
+- Checkout @ 10 AM
+- Ticket for bus into Tokyo Station
+- Set up Japan Rail Pass at Ueno Station?
+- Check into hotel @ 2 PM
+- Pick up pocket WiFi from hotel
+
+**Sightseeing:**
+
+_12-2PM:_ Picnic Lunch at Ueno Park
+
+Ueno tosho-gu shrine
+9:30-4:30
+(¥500)
+Tokyo national museum
+9:30am-5pm
+(¥640)
+Isetatsu stationary
+10am-6pm
+Shinobazu Pond
+5am-11pm
+Ameya-yokocho market
+Shitamachi museum
+9:30-4:30 
+(¥300)
+Yanaka-reien cemetery
+Ueno zoo
+9:30-5
+(¥600)
+National science museum
+9-5pm
+(¥600)
 
 ↪ [14th March (Wednesday)](/days/14mar)
