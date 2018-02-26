@@ -1,7 +1,19 @@
-## Japan
 
-Days:
-- 12th March (Monday)
+---
+layout: default
+---
 
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
