@@ -12,3 +12,5 @@ _Melbourne - Tullamarine to Japan - Narita Airport_
 - Buy Suica/pasmo for train to Narita Station
 - Set up Japan Rail Pass?
 - Check into hotel
+
+↪ [13th March (Tuesday)](/days/13mar)
