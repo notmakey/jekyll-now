@@ -17,26 +17,23 @@ _Japan - Tokyo (Ueno)_
 
 Picnic Lunch at Ueno Park
 
-9:30-4:30 [Ueno Tōshō-gū](/locations/uenoshrine) (¥500)
+9:30am-4:30pm [Ueno Tōshō-gū](/locations/uenoshrine) (¥500)
 
+9:30am-5:00pm Tokyo National Museum (¥640)
 
-Tokyo national museum
-9:30am-5pm
-(¥640)
-Isetatsu stationary
-10am-6pm
-Shinobazu Pond
-5am-11pm
-Ameya-yokocho market
-Shitamachi museum
-9:30-4:30 
-(¥300)
+10am-6:00pm Isetatsu stationary
+
+5:00am-11:00pm Shinobazu Pond
+
+Ameya-yokocho Market
+
+9:30am-4:30pm Shitamachi Museum (¥300)
+
 Yanaka-reien cemetery
-Ueno zoo
-9:30-5
-(¥600)
-National science museum
-9-5pm
-(¥600)
+
+9:30am-5:00pm Ueno Zoo (¥600)
+
+9:00am-5:00pm National Science Museum (¥600)
+
 
 ↪ [14th March (Wednesday)](/days/14mar)
