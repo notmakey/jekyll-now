@@ -5,7 +5,7 @@ published: true
 ---
 _Japan - Tokyo (Ueno)_
 
-### **Information:**
+### Information
 
 - Checkout @ 10 AM
 - Ticket for bus into Tokyo Station
@@ -13,7 +13,7 @@ _Japan - Tokyo (Ueno)_
 - Check into hotel @ 2 PM
 - Pick up pocket WiFi from hotel
 
-**Sightseeing:**
+### Sightseeing
 
 Picnic Lunch at **Ueno Park**
 
@@ -23,17 +23,17 @@ _9:30am-5:00pm_ **Tokyo National Museum** (¥640)
 
 _10:00am-6:00pm_ **Isetatsu stationary**
 
-_5:00am-11:00pm_ Shinobazu Pond
+_5:00am-11:00pm_ **Shinobazu Pond**
 
-Ameya-yokocho Market
+**Ameya-yokocho Market**
 
-_9:30am-4:30pm_ Shitamachi Museum (¥300)
+_9:30am-4:30pm_ **Shitamachi Museum** (¥300)
 
-Yanaka-reien cemetery
+**Yanaka-reien cemetery**
 
-_9:30am-5:00pm_ Ueno Zoo (¥600)
+_9:30am-5:00pm_ **Ueno Zoo** (¥600)
 
-_9:00am-5:00pm_ National Science Museum (¥600)
+_9:00am-5:00pm_ **National Science Museum** (¥600)
 
 
 ↪ [14th March (Wednesday)](/days/14mar)
