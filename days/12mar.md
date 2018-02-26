@@ -1,7 +1,12 @@
-## Japan
+## 12th March (Monday)
 
-Days:
-- 12th March (Monday)
+Information:
+
+- Arrive at airport
+- Buy Suica/pasmo for train to Narita Station
+- Set up Japan Rail Pass?
+- Check into hotel
 
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+
