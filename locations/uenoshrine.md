@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ueno Park
+title: Ueno Tōshō-gū / 上野東照宮
 published: true
 ---
 _Japan - Tokyo (Ueno)_
