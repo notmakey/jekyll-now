@@ -3,7 +3,7 @@ layout: page
 title: To-Do
 permalink: /todo/
 ---
-
+<script>
 function save(){
     var checkbox = document.getElementById('checkbox1zaal1');
     localStorage.setItem('checkbox1zaal1', checkbox.checked);
@@ -21,6 +21,7 @@ function wis(){
 }
 
 load();
+</script>
 
 <input type="button" id="ReserveerButton1" value="save" onclick="save()"/>
 <input type="button" id="Wisbutton1" value="delete" onclick="wis()"/>
