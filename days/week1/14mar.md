@@ -9,6 +9,8 @@ _Japan - Tokyo (Ueno)_
 
 ### Travel info
 
+Trains come approximately every 3-5 minutes from Shin-okubo Station.
+
 ![shin-okubo.PNG]({{site.baseurl}}/days/week1/shin-okubo.PNG)
 
 ### Sightseeing
