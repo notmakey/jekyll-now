@@ -27,13 +27,13 @@ _Japan - Tokyo (Ueno)_
 
 **[Tokyo National Museum](/locations/japan/tokyonationalmuseum)**
 
-**[Ueno Park](/locations/uenopark)**
+**[Ueno Park](/locations/japan/uenopark)**
 
-**[Ueno Tōshō-gū](/locations/uenoshrine)**
+**[Ueno Tōshō-gū](/locations/japan/uenoshrine)**
 
-**[Ueno Zoo](/locations/uenozoo)**
+**[Ueno Zoo](/locations/japan/uenozoo)**
 
-**[Yanaka-reien Cemetery](/locations/yanakareiencemetery)**
+**[Yanaka-reien Cemetery](/locations/japan/yanakareiencemetery)**
 
 <hr>
 
