@@ -3,27 +3,10 @@ layout: page
 title: To-Do
 permalink: /todo/
 ---
-<script>
-function save(){
-    var checkbox = document.getElementById('checkbox1zaal1');
-    localStorage.setItem('checkbox1zaal1', checkbox.checked);
-}
 
-function load(){    
-    var checked = JSON.parse(localStorage.getItem('checkbox1zaal1'));
-    document.getElementById("checkbox1zaal1").checked = checked;
-}
-
-function wis(){
-    location.reload();
-    localStorage.clear()
-
-}
-
-load();
-</script>
-
-<input type="button" id="ReserveerButton1" value="save" onclick="save()"/>
-<input type="button" id="Wisbutton1" value="delete" onclick="wis()"/>
-<input type="checkbox" id="checkbox1zaal1">1e film van de dag</input>
-
+   <div id="boxlawreg">
+        <input type="checkbox" name="option1" value="1" />1<br />
+        <input type="checkbox" name="option2" value="2" />2<br />
+        <input type="checkbox" name="option3" value="3" />3<br />
+        <input type="checkbox" name="option4" value="4" />4<br />
+    </div>
