@@ -7,13 +7,9 @@ _Japan - Tokyo (Ueno)_
 
 ### Information
 
-- Checkout @ 10 AM
-- Ticket for bus into Tokyo Station
-- Set up Japan Rail Pass at Ueno Station?
-- Check into hotel @ 2 PM
-- Pick up pocket WiFi from hotel
-
 ### Travel info
+
+![shin-okubo.PNG]({{site.baseurl}}/days/week1/shin-okubo.PNG)
 
 ### Sightseeing
 
