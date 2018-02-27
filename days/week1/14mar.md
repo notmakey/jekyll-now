@@ -13,6 +13,8 @@ _Japan - Tokyo (Ueno)_
 - Check into hotel @ 2 PM
 - Pick up pocket WiFi from hotel
 
+### Travel info
+
 ### Sightseeing
 
 Picnic Lunch at **Ueno Park**
