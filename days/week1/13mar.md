@@ -15,7 +15,7 @@ _Japan - Tokyo (Ueno)_
 
 ### Sightseeing
 
-**Ameya-yokocho Market**
+**[Ameya-yokocho Market](/locations/japan/ameyoko)**
 
 **Isetatsu stationary**
 
