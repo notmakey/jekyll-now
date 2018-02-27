@@ -36,4 +36,4 @@ _9:30am-5:00pm_ **Ueno Zoo** (¥600)
 _9:00am-5:00pm_ **National Science Museum** (¥600)
 
 
-↪ [14th March (Wednesday)](/days/14mar)
+↪ [16th March (Friday)](/days/week1/16mar)
