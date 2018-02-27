@@ -13,6 +13,17 @@ _Japan - Tokyo (Ueno)_
 - Check into hotel @ 2 PM
 - Pick up pocket WiFi from hotel
 
+### Travel info
+
+Terminal 2 Bus Stop
+![bus stop.PNG]({{site.baseurl}}/days/week1/bus stop.PNG)
+
+Bus Timetable
+![]({{site.baseurl}}/days/week1/bustimetable.PNG)![bustimetable.PNG]({{site.baseurl}}/days/week1/bustimetable.PNG)
+
+![bustimetable2.PNG]({{site.baseurl}}/days/week1/bustimetable2.PNG)
+
+
 ### Sightseeing
 
 **[Ameya-yokocho Market](/locations/japan/ameyoko)**
