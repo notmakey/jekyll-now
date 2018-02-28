@@ -7,8 +7,11 @@ _Japan - Tokyo (Suginami)_
 
 ### Information
 
-- Checkout of hotel 11am
-- Check into hotel 3pm
+<input class="box" type="checkbox" name="161" /><label type="text" class="strikethrough"> <b>Checkout of hotel 11am</b></label><br/>
+<input class="box" type="checkbox" name="162" /><label type="text" class="strikethrough"> <b>Check into hotel 3pm</b></label><br/>
+<input class="box" type="checkbox" name="163" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
+<input class="box" type="checkbox" name="164" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
+<input class="box" type="checkbox" name="165" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
 
 ### Travel info
 

@@ -7,7 +7,11 @@ _Japan - Tokyo (Nakano)_
 
 ### Information
 
-- Placeholder
+<input class="box" type="checkbox" name="181" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
+<input class="box" type="checkbox" name="182" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
+<input class="box" type="checkbox" name="183" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
+<input class="box" type="checkbox" name="184" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
+<input class="box" type="checkbox" name="185" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
 
 ### Travel info
 

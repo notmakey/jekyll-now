@@ -7,7 +7,11 @@ _Japan-Tokyo (Akihabara+Shinjuku +Shin-okubo)_
 
 ### Information
 
-- Placeholder
+<input class="box" type="checkbox" name="141" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
+<input class="box" type="checkbox" name="142" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
+<input class="box" type="checkbox" name="143" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
+<input class="box" type="checkbox" name="144" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
+<input class="box" type="checkbox" name="145" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
 
 ### Travel info
 
