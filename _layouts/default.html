@@ -64,6 +64,19 @@
     .treeview a:hover
     { color: #cc0000; }
 </style>
+
+      <script type="text/javascript">
+    function UnHide( eThis ){
+        if( eThis.innerHTML.charCodeAt(0) == 9658 ){
+            eThis.innerHTML = '&#9660;'
+            eThis.parentNode.parentNode.parentNode.className = '';
+        }else{
+            eThis.innerHTML = '&#9658;'
+            eThis.parentNode.parentNode.parentNode.className = 'cl';
+        }
+        return false;
+    }
+</script>
       
 <script type="text/javascript" src="//code.jquery.com/jquery-1.8.3.js"></script>
 <link rel="stylesheet" type="text/css" href="/css/normalize.css">
