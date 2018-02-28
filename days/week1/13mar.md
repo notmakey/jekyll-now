@@ -37,7 +37,7 @@ Bus Timetable
 
 **[Ueno Park](/locations/japan/uenopark)**
 
-**[Ueno Tōshō-gū](/locations/japan/uenoshrine)**
+**[Ueno Toshogu Shrine](/locations/japan/uenoshrine)**
 
 **[Ueno Zoo](/locations/japan/uenozoo)**
 

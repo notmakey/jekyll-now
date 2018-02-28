@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Ameya-yokocho Market
+title: Ameya-yokocho Market (アメ横)
 published: true
 ---
-###  アメ横
-
 **Hours:** 10:00am-8:00pm
 
 Stores typically open between 10:00am and close around 8:00pm.

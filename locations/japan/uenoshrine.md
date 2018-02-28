@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Ueno Tōshō-gū / 上野東照宮
+title: Ueno Tōshō-gū (上野東照宮)
 published: true
 ---
-_Japan - Tokyo (Ueno)_
-
 [Official English Website](http://www.uenotoshogu.com/en/)
 
 **Hours:** 9:30am - 4:30pm
