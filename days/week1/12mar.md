@@ -11,7 +11,8 @@ _Melbourne - Tullamarine to Japan - Narita Airport_
 
 ### Travel info
 
-Placeholder
+**FREE** Shuttle bus from Terminal 2 (Stop 16 on Level 1)
+Operates from 6:30am-11:10pm (Every 20 minutes)
 
 <hr>
 
