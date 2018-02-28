@@ -29,7 +29,7 @@ Bus Timetable
 
 **National Science Museum**
 
-**Shinobazu Pond**
+**[Shinobazu Pond](/locations/japan/shinobazupond)**
 
 **Shitamachi Museum**
 
