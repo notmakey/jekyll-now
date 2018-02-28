@@ -5,15 +5,19 @@ published: true
 ---
 _Japan - Akashi + Osaka_
 
-### Information
+## Information
 
-- Placeholder
+<input class="box" type="checkbox" name="221" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
+<input class="box" type="checkbox" name="222" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
+<input class="box" type="checkbox" name="223" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
+<input class="box" type="checkbox" name="224" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
+<input class="box" type="checkbox" name="225" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
 
-### Travel info
+## Travel info
 
 Placeholder
 
-### Sightseeing
+## Sightseeing
 
 - Breakfast at home
 - Morning walk to okura kaigan/watch sunrise

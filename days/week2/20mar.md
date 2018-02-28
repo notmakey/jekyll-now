@@ -5,15 +5,19 @@ published: true
 ---
 _Japan - Akashi_
 
-### Information
+## Information
 
-- Placeholder
+<input class="box" type="checkbox" name="201" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
+<input class="box" type="checkbox" name="202" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
+<input class="box" type="checkbox" name="203" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
+<input class="box" type="checkbox" name="204" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
+<input class="box" type="checkbox" name="205" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
 
-### Travel info
+## Travel info
 
 Placeholder
 
-### Sightseeing
+## Sightseeing
 
 - Breakfast at home
 - Cook dinner

@@ -5,15 +5,19 @@ published: true
 ---
 _Japan - Osaka_
 
-### Information
+## Information
 
-- Placeholder
+<input class="box" type="checkbox" name="241" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
+<input class="box" type="checkbox" name="242" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
+<input class="box" type="checkbox" name="243" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
+<input class="box" type="checkbox" name="244" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
+<input class="box" type="checkbox" name="245" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
 
-### Travel info
+## Travel info
 
 Placeholder
 
-### Sightseeing
+## Sightseeing
 
 - Placeholder
 
