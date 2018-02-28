@@ -5,13 +5,17 @@ published: true
 ---
 _Japan-Tokyo (Akihabara+Shinjuku +Shin-okubo)_
 
+### Information
+
+- Placeholder
+
 ### Travel info
 
 <a href="http://maki.host/days/week1/shin-okubo.PNG">![shin-okubo.PNG]({{site.baseurl}}/days/week1/shin-okubo.PNG)</a>
 
 Trains come approximately every 3-5 minutes from Shin-okubo Station.
 
-##  Sightseeing
+###  Sightseeing
 
 - Nezu no taiyaki (breakfast?) 10:30am-2pm
 - Walk to Akihabara - Donquiote - anime stores

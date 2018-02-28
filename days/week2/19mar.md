@@ -1,16 +1,28 @@
 ---
 layout: page
-title: 12th March (Monday)
+title: 19th March (Monday)
 published: true
 ---
-_Melbourne - Tullamarine to Japan - Narita Airport_
+_Japan - Akashi_
 
+### Information
 
-**Information:**
+- Checkout of airbnb at 11am
+- Take shinkansen to Akashi
+- Check into hotel 2pm
 
-- Arrive at airport
-- Buy Suica/pasmo for train to Narita Station
-- Set up Japan Rail Pass?
-- Check into hotel
+### Travel info
 
-↪ [13th March (Tuesday)](/days/13mar)
+Placeholder
+
+### Sightseeing
+
+- Breakfast at home
+- Pack snacks for shinkansen
+- Akashi castle ruins (24hrs)
+- Buy groceries
+- Cook dinner 
+
+<hr>
+
+↪ [20th March (Tuesday)](/days/week2/20mar)
