@@ -3,8 +3,6 @@ layout: page
 title: Shitamachi Museum (下町風俗資料館)
 published: true
 ---
-Museum dedicated to the traditional culture of Tokyo's Shitamachi.
-
 **Hours:** 9:30am - 4:30pm
 
 **Price:** ¥300

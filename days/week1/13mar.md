@@ -27,7 +27,7 @@ Bus Timetable
 
 **Isetatsu stationary**
 
-**National Science Museum**
+**[National Science Museum](/locations/japan/nsm)**
 
 **[Shinobazu Pond](/locations/japan/shinobazupond)**
 
