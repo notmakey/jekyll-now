@@ -25,7 +25,7 @@ Bus Timetable
 
 **[Ameya-yokocho Market](/locations/japan/ameyoko)**
 
-**Isetatsu stationary**
+**[Isetatsu stationary](/locations/japan/isetatsu)**
 
 **[National Science Museum](/locations/japan/nsm)**
 
