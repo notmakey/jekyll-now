@@ -8,7 +8,9 @@ published: true
 
 ## Information
 
-<iframe width="100%" height="108" src="https://fiddle.jshell.net/NotMakey/n0bu8uac/6/show/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<input class="box" type="checkbox" name="airport1" /><label type="text" class="strikethrough"> <b>Arrive at Airport</b></label><br/>
+<input class="box" type="checkbox" name="jrp" /><label type="text" class="strikethrough"> <b>Set up Japan Rail Pass</b></label><br/>
+<input class="box" type="checkbox" name="hotel1" /><label type="text" class="strikethrough"> <b>Check into hotel</b></label><br/>
 
 ## Travel info
 
