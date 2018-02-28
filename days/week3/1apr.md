@@ -1,6 +1,6 @@
 ---
 layout: page
-title: (Monday)
+title: 1st April (Sunday)
 published: true
 ---
 __

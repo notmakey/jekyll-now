@@ -3,7 +3,7 @@ layout: page
 title: 19th March (Sunday)
 published: true
 ---
-__
+_Japan - Kyoto_
 
 ### Information
 

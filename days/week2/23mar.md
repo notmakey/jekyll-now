@@ -3,7 +3,7 @@ layout: page
 title: 23rd March (Friday)
 published: true
 ---
-__
+_Japan - Osaka_
 
 ### Information
 

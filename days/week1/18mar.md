@@ -21,4 +21,4 @@ Placeholder
 
 <hr>
 
-[19th March (Monday) Week 2](/days/week2/19mar)
+[Week 2 (19th - 25th)](/days/week2/19mar)

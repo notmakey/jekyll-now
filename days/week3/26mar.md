@@ -1,9 +1,9 @@
 ---
 layout: page
-title: (Monday)
+title: 26th March (Monday)
 published: true
 ---
-__
+_Japan - Osaka_
 
 ### Information
 
@@ -19,4 +19,4 @@ Placeholder
 
 <hr>
 
-↪ [  (Tuesday)](/days/week3/apr)
+↪ [27th March (Tuesday)](/days/week3/27mar)
