@@ -3,10 +3,6 @@ layout: page
 title: Ameya-yokocho Market / アメ横
 published: true
 ---
-[Official Japanese Wesbite](http://www.ameyoko.net/)
-
-4 Ueno, Taito Ward, Tokyo
-
 Hours: 10:00am-8:00pm
 
 Stores typically open between 10:00am and close around 8:00pm.
