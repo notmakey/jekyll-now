@@ -18,13 +18,17 @@ published: true
 
 * free **shuttle bus** from hotel to Narita Airport<br>FROM **6:20am-11pm**&nbsp;(every 20 minutes)
 
-&nbsp;
-
 * **Express bus**&nbsp;from Narita to **Tokyo Station** timetable:
 
 [![](/days/week1/bustimetable.PNG)](http://maki.host/days/week1/bustimetable.PNG)
 
 [![bustimetable2.PNG](/days/week1/bustimetable2.PNG)](http://maki.host/days/week1/bustimetable2.PNG)
+
+* **Tokyo**station to **Ueno&nbsp;**Station:
+
+![](/uploads/versions/tokyoueno---x----886-242x---.PNG)
+
+### &nbsp;
 
 ### Sightseeing
 
