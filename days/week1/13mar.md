@@ -3,23 +3,24 @@ layout: page
 title: 13th March (Tuesday)
 published: true
 ---
-_Japan - Tokyo (Ueno)_
 
-### Information
+*Japan - Tokyo (Ueno)*
 
-- Checkout @ 10 AM
-- Ticket for bus into Tokyo Station
-- Set up Japan Rail Pass at Ueno Station?
-- Check into hotel @ 2 PM
-- Pick up pocket WiFi from hotel
+## Information
 
-### Travel info
+* Checkout @ 10 AM
+* Ticket for bus into Tokyo Station
+* Set up Japan Rail Pass at Ueno Station?
+* Check into hotel @ 2 PM
+* Pick up pocket WiFi from hotel
 
-Bus Timetable
-<a href="http://maki.host/days/week1/bustimetable.PNG">![]({{site.baseurl}}/days/week1/bustimetable.PNG)</a>
+## Travel info
 
-<a href="http://maki.host/days/week1/bustimetable2.PNG">![bustimetable2.PNG]({{site.baseurl}}/days/week1/bustimetable2.PNG)</a>
+* free shuttle bus from hotel to Narita Airport<br><br>FROM 6:20am-11pm (every 20 minutes)
 
+[![](/days/week1/bustimetable.PNG)](http://maki.host/days/week1/bustimetable.PNG)
+
+[![bustimetable2.PNG](/days/week1/bustimetable2.PNG)](http://maki.host/days/week1/bustimetable2.PNG)
 
 ### Sightseeing
 
@@ -43,6 +44,6 @@ Bus Timetable
 
 **[Yanaka-reien Cemetery](/locations/japan/yanakareiencemetery)**
 
-<hr>
+---
 
 ↪ [14th March (Wednesday)](/days/week1/14mar)
