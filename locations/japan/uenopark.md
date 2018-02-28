@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ueno Tōshō-gū / 上野東照宮
+title: Ueno Park (上野公園)
 published: true
 ---
 _Japan - Tokyo (Ueno)_
@@ -11,5 +11,6 @@ Hours: 9:30am - 4:30pm
 
 Price: ¥ 500
 
+<a href="https://www.japan-guide.com/g2/3019_map_03.gif"><img src="https://www.japan-guide.com/g2/3019_map_03.gif"></a>
 
-<div style="width: 100%"><iframe width="100%" height="400" src="https://maps.google.com/maps?width=100%&amp;height=400&amp;hl=en&amp;coord=35.7156453, 139.77130710000006&amp;q=Ueno%20Toshogu%20Shrine%2C%209-88%20Uenok%C5%8Den%2C%20Tait%C5%8D-ku%2C%20T%C5%8Dky%C5%8D-to%20110-0007%2C%20Japan+(Ueno%20T%C5%8Dsh%C5%8D-g%C5%AB)&amp;ie=UTF8&amp;t=p&amp;z=16&amp;iwloc=B&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div><br />
+<div class="mapouter"><div class="gmap_canvas"><iframe width="339" height="400" id="gmap_canvas" src="https://maps.google.com/maps?q=ueno park&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div><a href="https://www.embedgooglemap.net">embedgooglemap.net</a><style>.mapouter{overflow:hidden;height:400px;width:339px;}.gmap_canvas {background:none!important;height:400px;width:339px;}</style></div>
