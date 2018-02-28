@@ -8,11 +8,11 @@ published: true
 
 ## Information
 
-* Checkout @ 10 AM
-* Ticket for bus into Tokyo Station
-* Set up Japan Rail Pass at Ueno Station?
-* Check into hotel @ 2 PM
-* Pick up pocket WiFi from hotel
+<input class="box" type="checkbox" name="131" /><label type="text" class="strikethrough"> <b>Checkout @ 10 AM</b></label><br/>
+<input class="box" type="checkbox" name="132" /><label type="text" class="strikethrough"> <b>Ticket for bus into Tokyo Station</b></label><br/>
+<input class="box" type="checkbox" name="133" /><label type="text" class="strikethrough"> <b>Check into hotel @ 2 PM</b></label><br/>
+<input class="box" type="checkbox" name="134" /><label type="text" class="strikethrough"> <b>Pick up pocket WiFi from hotel</b></label><br/>
+<input class="box" type="checkbox" name="jrp" /><label type="text" class="strikethrough"> <b>Set up Japan Rail Pass</b></label><br/>
 
 ## Travel info
 
@@ -28,9 +28,7 @@ published: true
 
 ![](/uploads/versions/tokyoueno---x----886-242x---.PNG)
 
-### &nbsp;
-
-### Sightseeing
+## Sightseeing
 
 **[Ameya-yokocho Market](/locations/japan/ameyoko)**
 

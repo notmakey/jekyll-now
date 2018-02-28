@@ -18,9 +18,7 @@ FREE Shuttle bus from **Terminal 2** (Stop 16 on Level 1)
 
 Operates from **6:30am-11:10pm** (Every 20 minutes)
 
-&nbsp;
-
-![](/uploads/versions/japan-1---x----520-290x---.png)
+<a href="http://maki.host/uploads/versions/tokyoueno---x----886-242x---.PNG">![](/uploads/versions/japan-1---x----520-290x---.png)</a>
 
 ---
 
