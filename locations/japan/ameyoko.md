@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ameya-yokocho Market / アメ横
+title: Ameya-yokocho Market ### (アメ横)
 published: true
 ---
 **Hours:** 10:00am-8:00pm
