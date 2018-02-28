@@ -16,9 +16,9 @@ _Japan - Tokyo (Ueno)_
 ### Travel info
 
 Bus Timetable
-![]({{site.baseurl}}/days/week1/bustimetable.PNG)
+<a href="http://maki.host/days/week1/bustimetable.PNG">![]({{site.baseurl}}/days/week1/bustimetable.PNG)</a>
 
-![bustimetable2.PNG]({{site.baseurl}}/days/week1/bustimetable2.PNG)
+<a href="http://maki.host/days/week1/bustimetable2.PNG">![bustimetable2.PNG]({{site.baseurl}}/days/week1/bustimetable2.PNG)</a>
 
 
 ### Sightseeing
