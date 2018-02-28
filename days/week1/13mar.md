@@ -16,7 +16,11 @@ published: true
 
 ## Travel info
 
-* free shuttle bus from hotel to Narita Airport<br><br>FROM 6:20am-11pm (every 20 minutes)
+* free shuttle bus from hotel to Narita Airport<br>FROM 6:20am-11pm (every 20 minutes)
+
+&nbsp;
+
+* Express bus to Tokyo Station timetable:
 
 [![](/days/week1/bustimetable.PNG)](http://maki.host/days/week1/bustimetable.PNG)
 
