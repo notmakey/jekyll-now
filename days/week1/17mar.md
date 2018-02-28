@@ -5,7 +5,7 @@ published: true
 ---
 _Japan - Mitaka_
 
-### Information
+## Information
 
 <input class="box" type="checkbox" name="171" /><label type="text" class="strikethrough"> <b>Exchange Ghibli ticket</b></label><br/>
 <input class="box" type="checkbox" name="172" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
@@ -13,11 +13,11 @@ _Japan - Mitaka_
 <input class="box" type="checkbox" name="174" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
 <input class="box" type="checkbox" name="175" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
 
-### Travel info
+## Travel info
 
 Placeholder
 
-### Sightseeing
+## Sightseeing
 
 - Breakfast at home
 - Ghibli museum 10am-6pm
