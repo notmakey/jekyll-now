@@ -13,11 +13,11 @@ _Japan - Tokyo (Nakano)_
 <input class="box" type="checkbox" name="184" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
 <input class="box" type="checkbox" name="185" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
 
-### Travel info
+## Travel info
 
 Placeholder
 
-### Sightseeing
+## Sightseeing
 
 - Breakfast at home
 - Nakano broadway 11AM-8PM

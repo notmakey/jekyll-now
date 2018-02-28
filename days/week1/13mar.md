@@ -30,25 +30,16 @@ published: true
 
 ## Sightseeing
 
-**[Ameya-yokocho Market](/locations/japan/ameyoko)**
-
-**[Isetatsu stationary](/locations/japan/isetatsu)**
-
-**[National Science Museum](/locations/japan/nsm)**
-
-**[Shinobazu Pond](/locations/japan/shinobazupond)**
-
-**[Shitamachi Museum](/locations/japan/shitamachi)**
-
-**[Tokyo National Museum](/locations/japan/tokyonationalmuseum)**
-
-**[Ueno Park](/locations/japan/uenopark)**
-
-**[Ueno Toshogu Shrine](/locations/japan/uenoshrine)**
-
-**[Ueno Zoo](/locations/japan/uenozoo)**
-
-**[Yanaka-reien Cemetery](/locations/japan/yanakareiencemetery)**
+- **[Ameya-yokocho Market](/locations/japan/ameyoko)**
+- **[Isetatsu stationary](/locations/japan/isetatsu)**
+- **[National Science Museum](/locations/japan/nsm)**
+- **[Shinobazu Pond](/locations/japan/shinobazupond)**
+- **[Shitamachi Museum](/locations/japan/shitamachi)**
+- **[Tokyo National Museum](/locations/japan/tokyonationalmuseum)**
+- **[Ueno Park](/locations/japan/uenopark)**
+- **[Ueno Toshogu Shrine](/locations/japan/uenoshrine)**
+- **[Ueno Zoo](/locations/japan/uenozoo)**
+- **[Yanaka-reien Cemetery](/locations/japan/yanakareiencemetery)**
 
 ---
 
