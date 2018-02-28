@@ -31,7 +31,7 @@ Bus Timetable
 
 **[Shinobazu Pond](/locations/japan/shinobazupond)**
 
-**Shitamachi Museum**
+**[Shitamachi Museum](/locations/japan/shitamachi)**
 
 **[Tokyo National Museum](/locations/japan/tokyonationalmuseum)**
 
