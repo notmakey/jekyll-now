@@ -16,7 +16,7 @@ published: true
 
 ## Travel info
 
-* free shuttle bus from hotel to Narita Airport<br>FROM 6:20am-11pm (every 20 minutes)
+* free shuttle bus from hotel to Narita Airport<br>FROM ***6:20am-11pm***&nbsp;(every 20 minutes)
 
 &nbsp;
 
