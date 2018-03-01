@@ -25,6 +25,8 @@ Akihabara:
 * Donquiote 9am-5am
 * mandarake complex 12pm-8pm)
 * Tokyo Anime Center (located on the 4th floor of UDX Building of Akihabara Crossfield) 11am-8pm
+* Akihabara Gachapon Kaikan 11am-8pm
+* Kanda Myojin Shrine
 
 Shinjuku
 
