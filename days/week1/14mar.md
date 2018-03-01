@@ -12,12 +12,6 @@ published: true
 
 ## Travel info
 
-Can take cash out from:
-
-* Japan Post ATMS
-* [7/11](https://www.sevenbank.co.jp/oos/adv/intlcard02/en/)
-* Lawson (minimum ¥50,000 withdrawl)
-
 Trains come approximately every **3-5 minutes** from **Shin-okubo** Station.
 
 [![shin-okubo.PNG]({{site.baseurl}}/days/week1/shin-okubo.PNG)](http://maki.host/days/week1/shin-okubo.PNG)
