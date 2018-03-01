@@ -38,7 +38,7 @@ published: true
 
 [![bustimetable2.PNG](/days/week1/bustimetable2.PNG)](http://maki.host/days/week1/bustimetable2.PNG)
 
-* **Tokyo**station to **Ueno&nbsp;**Station:
+* **Tokyo**Station to **Ueno&nbsp;**Station:
 
 ![](/uploads/versions/tokyoueno---x----886-242x---.PNG)
 
