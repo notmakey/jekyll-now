@@ -22,11 +22,11 @@ Placeholder
 * Spins store (Porter Robinson merch)
 * Daiso
 
-&nbsp; &nbsp;3. Tokyu Plaza
+&nbsp; 3. Tokyu Plaza
 
 * Tokyo's Tokyo
 
-Hedgehog Cafe Roppongi (5pm-6pm session)
+&nbsp; 4. Hedgehog Cafe Roppongi (5pm-6pm session)
 
 ---
 
