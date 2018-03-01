@@ -27,7 +27,7 @@ Akihabara:
 * Tokyo Anime Center (located on the 4th floor of UDX Building of Akihabara Crossfield) 11am-8pm
 * Akihabara Gachapon Kaikan 11am-8pm
 * Kanda Myojin Shrine<br>1,000 yen it charm to protect your devices
-* sega game arcade
+* sega game arcade 10am-11:30pm
 
 Shinjuku
 
