@@ -17,16 +17,17 @@ Placeholder
 ## Sightseeing
 
 1. Meiji shrine & Yoyogi Park
+
 2. Harajuku Takeshita Dori & Neighbouring streets
 
 * Spins store (Porter Robinson merch)
 * Daiso
 
-&nbsp; 3. Tokyu Plaza
+3. Tokyu Plaza
 
 * Tokyo's Tokyo
 
-&nbsp; 4. Hedgehog Cafe Roppongi (5pm-6pm session)
+4. Hedgehog Cafe Roppongi (5pm-6pm session)
 
 ---
 
