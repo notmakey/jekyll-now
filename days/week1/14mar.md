@@ -27,7 +27,7 @@ Akihabara:
 - [Kanda Myojin Shrine](/locations/japan/akihabara/kandamyojinshrine)
 - [Kotobukiya Akihabara Store](/locations/japan/akihabara/kotobukiya)
 - [Mandarake Complex](/locations/japan/akihabara/mandarake)
-- [Sega Game Arcade](/locations/japan/akihabara/segagamearcade)
+- [SEGA Game Arcade](/locations/japan/akihabara/segagamearcade)
 - [Tokyo Anime Center](/locations/japan/akihabara/tokyoanimecenter)
 
 Shinjuku
