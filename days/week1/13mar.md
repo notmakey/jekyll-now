@@ -7,12 +7,13 @@ published: true
 *Japan - Tokyo (**Ueno**)*
 
 ## Information
-
-<input class="box" type="checkbox" name="131" /><label type="text" class="strikethrough"> <b>Checkout @ 10 AM</b></label>&nbsp;
-<input class="box" type="checkbox" name="132" /><label type="text" class="strikethrough"> <b>Ticket for bus into Tokyo Station</b></label>&nbsp;
-<input class="box" type="checkbox" name="133" /><label type="text" class="strikethrough"> <b>Check into hotel @ 2 PM</b></label>&nbsp;
-<input class="box" type="checkbox" name="134" /><label type="text" class="strikethrough"> <b>Pick up pocket WiFi from hotel</b></label>&nbsp;
-<input class="box" type="checkbox" name="jrp" /><label type="text" class="strikethrough"> <b>Set up Japan Rail Pass</b></label>&nbsp;
+<div>
+<input class="box" type="checkbox" name="131" /><label type="text" class="strikethrough"> <b>Checkout @ 10 AM</b></label>
+<input class="box" type="checkbox" name="132" /><label type="text" class="strikethrough"> <b>Ticket for bus into Tokyo Station</b></label>
+<input class="box" type="checkbox" name="133" /><label type="text" class="strikethrough"> <b>Check into hotel @ 2 PM</b></label>
+<input class="box" type="checkbox" name="134" /><label type="text" class="strikethrough"> <b>Pick up pocket WiFi from hotel</b></label>
+<input class="box" type="checkbox" name="jrp" /><label type="text" class="strikethrough"> <b>Set up Japan Rail Pass</b></label>
+</div>
 
 ## Travel info
 
