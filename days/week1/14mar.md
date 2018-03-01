@@ -8,25 +8,11 @@ published: true
 
 ## Information
 
-<input class="box" type="checkbox" name="141" />
-
-<label type="text" class="strikethrough"> <b>Placeholder</b></label><br>
-
-<input class="box" type="checkbox" name="142" />
-
-<label type="text" class="strikethrough"> <b>Placeholder</b></label><br>
-
-<input class="box" type="checkbox" name="143" />
-
-<label type="text" class="strikethrough"> <b>Placeholder</b></label><br>
-
-<input class="box" type="checkbox" name="144" />
-
-<label type="text" class="strikethrough"> <b>Placeholder</b></label><br>
-
-<input class="box" type="checkbox" name="145" />
-
-<label type="text" class="strikethrough"> <b>Placeholder</b></label>
+<div><input class="box" type="checkbox" name="141" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br>
+<input class="box" type="checkbox" name="142" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br>
+<input class="box" type="checkbox" name="143" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br>
+<input class="box" type="checkbox" name="144" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br>
+<input class="box" type="checkbox" name="145" /><label type="text" class="strikethrough"> <b>Placeholder</b></label></div>
 
 ## Travel info
 
