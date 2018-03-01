@@ -1,6 +1,6 @@
 ---
 layout: page
-title: National Museum of Nature and Science (国立科学博物館)
+title: Tokyo Anime Center
 published: true
 ---
 **Located on the 4th floor of UDX Building of Akihabara Crossfield**Hours:** 11:00am to 8:00pm.**
