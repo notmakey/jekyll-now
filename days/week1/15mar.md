@@ -22,8 +22,6 @@ Placeholder
 * Spins store (Porter Robinson merch)
 * Daiso
 
-&nbsp;
-
 &nbsp; &nbsp;3. Tokyu Plaza
 
 * Tokyo's Tokyo
