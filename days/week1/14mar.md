@@ -35,8 +35,14 @@ Shinjuku
 * Tower records 11am-11pm
 * Shinjuku gyeon
 * square enix
+* Taisoji Temple
+* Hanazono Shrine
+* Tokyo Metropolitan Government Building Observatory
+* Shinjuku Central Park
 
 Shin-okubo (koreatown)
+
+* kpop cafes
 
 ---
 
