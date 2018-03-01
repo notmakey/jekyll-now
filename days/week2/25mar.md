@@ -7,11 +7,11 @@ _Japan - Kyoto_
 
 ## Information
 
-<input class="box" type="checkbox" name="251" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
+<div><input class="box" type="checkbox" name="251" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
 <input class="box" type="checkbox" name="252" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
 <input class="box" type="checkbox" name="253" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
 <input class="box" type="checkbox" name="254" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
-<input class="box" type="checkbox" name="255" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
+<input class="box" type="checkbox" name="255" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/></div>
 
 ## Travel info
 
