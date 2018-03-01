@@ -1,6 +1,6 @@
 ---
 layout: page
-title: National Museum of Nature and Science (国立科学博物館)
+title: Mandarake Complex
 published: true
 ---
 [Official English Website](http://earth.mandarake.co.jp/shop/cmp/)

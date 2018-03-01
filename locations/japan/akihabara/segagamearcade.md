@@ -1,6 +1,6 @@
 ---
 layout: page
-title: National Museum of Nature and Science (国立科学博物館)
+title: SEGA Arcade
 published: true
 ---
 **Hours:** 10:00am to 11:30pm
