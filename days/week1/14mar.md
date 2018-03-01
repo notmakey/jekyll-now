@@ -28,11 +28,13 @@ Akihabara:
 * Akihabara Gachapon Kaikan 11am-8pm
 * Kanda Myojin Shrine<br>1,000 yen it charm to protect your devices
 * sega game arcade 10am-11:30pm
+* Kotobukiya
 
 Shinjuku
 
 * Tower records 11am-11pm
 * Shinjuku gyeon
+* square enix
 
 Shin-okubo (koreatown)
 
