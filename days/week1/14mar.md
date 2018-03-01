@@ -20,8 +20,6 @@ Trains come approximately every **3-5 minutes** from **Shin-okubo** Station.
 
 * Nezu no taiyaki 10:30am-2pm
 
-&nbsp;
-
 Akihabara:
 
 * Donquiote 9am-5am
