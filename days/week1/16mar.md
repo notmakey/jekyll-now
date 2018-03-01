@@ -19,7 +19,7 @@ published: true
 * Wonder around nearby area
 * MITSUI's Forest Park
 
-* Shop at nearby conbini/supermarket for groceries
+* Shop at nearby conbini/supermarket for groceries (7/11, Lawson & Family mart)
 * Cook dinner at home
 
 ---
