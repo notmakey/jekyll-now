@@ -12,9 +12,9 @@ published: true
 
 ## Travel info
 
-[![shin-okubo.PNG]({{site.baseurl}}/days/week1/shin-okubo.PNG)](http://maki.host/days/week1/shin-okubo.PNG)
+Trains come approximately every **3-5 minutes** from **Shin-okubo** Station.
 
-Trains come approximately every 3-5 minutes from Shin-okubo Station.
+[![shin-okubo.PNG]({{site.baseurl}}/days/week1/shin-okubo.PNG)](http://maki.host/days/week1/shin-okubo.PNG)
 
 ## Sightseeing
 
