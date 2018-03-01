@@ -12,7 +12,13 @@ published: true
 
 ## Travel Information
 
-Placeholder
+Yushima to Harajuku (approximately every 4 minutes)
+
+![](/uploads/versions/harajuku---x----717-349x---.PNG)
+
+Harajuku to Roppongi
+
+![](/uploads/versions/roppongi---x----716-501x---.PNG)
 
 ## Sightseeing
 
