@@ -4,7 +4,7 @@ title: 15th March (Thursday)
 published: true
 ---
 
-*Japan-Tokyo (**Harajuku**+**Shibuya**)*
+*Japan-Tokyo (**Harajuku**+**Roppongi**)*
 
 ## Information
 
@@ -18,12 +18,13 @@ Placeholder
 
 Meiji shrine
 
-Harajuku Takeshita street
+Harajuku
 
-* Spins store (porter robinson)
-* Shibuya crossing
-* Shibuya 109
-* Shibuya tower records
+* Takeshita street
+* Spins store (porter robinson
+* Yoyogi Park
+
+Hedgehog Cafe Roppongi (5pm-6pm session)
 
 ---
 
