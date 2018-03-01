@@ -22,6 +22,15 @@ Trains come approximately every **3-5 minutes** from **Shin-okubo** Station.
 
 Akihabara:
 
+* [Akihabara Gachapon Kaikan](/locations/japan/akihabara/gachaponkaikan)
+* [Donquiote](/locations/japan/akihabara/donquiote)
+* [Kanda Myojin Shrine](/locations/japan/akihabara/kandamyojinshrine)
+* [Kotobukiya](/locations/japan/akihabara/kotobukiya)
+* [Mandarake Complex](/locations/japan/akihabara/mandarake)
+* [Sega Game Arcade](/locations/japan/akihabara/segagamearcade)
+* [Tokyo Anime Center](/locations/japan/akihabara/tokyoanimecenter)
+
+
 * Donquiote 9am-5am
 * mandarake complex 12pm-8pm)
 * Tokyo Anime Center (located on the 4th floor of UDX Building of Akihabara Crossfield) 11am-8pm
