@@ -26,7 +26,8 @@ Akihabara:
 * mandarake complex 12pm-8pm)
 * Tokyo Anime Center (located on the 4th floor of UDX Building of Akihabara Crossfield) 11am-8pm
 * Akihabara Gachapon Kaikan 11am-8pm
-* Kanda Myojin Shrine
+* Kanda Myojin Shrine<br>1,000 yen it charm to protect your devices
+* sega game arcade
 
 Shinjuku
 
