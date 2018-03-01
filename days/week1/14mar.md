@@ -8,8 +8,7 @@ published: true
 
 ## Information
 
-<div><input class="box" type="checkbox" name="141" /><label type="text" class="strikethrough">&nbsp;<b>Get cash out</b></label><br /><input class="box" type="checkbox" name="142" /><label type="text" class="strikethrough"> <b>Check Suica balance</b></label><br /><input class="box" type="checkbox" name="143" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br /><input class="box" type="checkbox" name="144" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br /><input class="box" type="checkbox" name="145" /><label type="text" class="strikethrough"> <b>Placeholder</b></label></div>
-
+<div><input class="box" type="checkbox" name="141" /><label type="text" class="strikethrough">&nbsp;<b>Get cash out</b></label><br /><input class="box" type="checkbox" name="142" /><label type="text" class="strikethrough"> <b>Check Suica balance</b></label><br /><input class="box" type="checkbox" name="143" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br />
 ## Travel info
 
 Trains come approximately every **3-5 minutes** from **Shin-okubo** Station.
