@@ -8,22 +8,36 @@ published: true
 
 ## Information
 
-<div><input class="box" type="checkbox" name="141" /><label type="text" class="strikethrough">&nbsp;<b>Get cash out</b></label><br /><input class="box" type="checkbox" name="142" /><label type="text" class="strikethrough"> <b>Check Suica balance</b></label><br /><input class="box" type="checkbox" name="143" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br /></div>
+<div><input class="box" type="checkbox" name="141" /><label type="text" class="strikethrough">&nbsp;<b>Get cash out</b></label><br /><input class="box" type="checkbox" name="142" /><label type="text" class="strikethrough"> <b>Check Suica balance</b></label><br /><input class="box" type="checkbox" name="143" /><label type="text" class="strikethrough"> <b>Placeholder</b></label></div>
 
 ## Travel info
 
 Trains come approximately every **3-5 minutes** from **Shin-okubo** Station.
 
-[![shin-okubo.PNG]({{site.baseurl}}/days/week1/shin-okubo.PNG)](http://maki.host/days/week1/shin-okubo.PNG)
+[![shin-okubo.PNG](/days/week1/shin-okubo.PNG)](http://maki.host/days/week1/shin-okubo.PNG)
 
 ## Sightseeing
 
-* Nezu no taiyaki (breakfast?) 10:30am-2pm
-* Walk to Akihabara - Donquiote - anime stores
-* Shinjuku - tower records 11am-11pm
+* Nezu no taiyaki 10:30am-2pm
+
+&nbsp;
+
+&nbsp;
+
+Akihabara:
+
+* Donquiote 9am-5am
+
+&nbsp;
+
+Shinjuku
+
+* Tower records 11am-11pm
 * Shinjuku gyeon
+
+&nbsp;
+
 * Shin-okubo (koreatown)
-* Take train from shin-okubo to ueno station
 
 ---
 
