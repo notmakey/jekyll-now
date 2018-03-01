@@ -22,22 +22,16 @@ Trains come approximately every **3-5 minutes** from **Shin-okubo** Station.
 
 &nbsp;
 
-&nbsp;
-
 Akihabara:
 
 * Donquiote 9am-5am
-
-&nbsp;
 
 Shinjuku
 
 * Tower records 11am-11pm
 * Shinjuku gyeon
 
-&nbsp;
-
-* Shin-okubo (koreatown)
+Shin-okubo (koreatown)
 
 ---
 
