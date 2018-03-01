@@ -7,11 +7,11 @@ _Japan - Akashi_
 
 ## Information
 
-<input class="box" type="checkbox" name="201" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
+<div><input class="box" type="checkbox" name="201" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
 <input class="box" type="checkbox" name="202" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
 <input class="box" type="checkbox" name="203" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
 <input class="box" type="checkbox" name="204" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
-<input class="box" type="checkbox" name="205" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/>
+<input class="box" type="checkbox" name="205" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br/></div>
 
 ## Travel info
 
