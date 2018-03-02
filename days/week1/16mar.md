@@ -12,7 +12,7 @@ published: true
 
 ## Travel info
 
-![](/uploads/versions/suginami---x----387-516x---.PNG)
+![](/uploads/versions/yushimatohama-1---x----359-504x---.PNG)
 
 ## Sightseeing
 
