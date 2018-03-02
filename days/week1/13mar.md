@@ -22,7 +22,7 @@ published: true
 
 * **Tokyo&nbsp;**Station to **Ueno&nbsp;**Station:
 
-![](/uploads/versions/tokyoueno---x----886-242x---.PNG)
+[![](/uploads/versions/tokyoueno---x----886-242x---.PNG)](http://maki.host/uploads/versions/tokyoueno---x----886-242x---.PNG)
 
 ## Sightseeing
 
