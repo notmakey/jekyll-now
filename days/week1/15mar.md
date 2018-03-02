@@ -8,15 +8,15 @@ published: true
 
 ## Information
 
-<div><input class="box" type="checkbox" name="151" /><label type="text" class="strikethrough">&nbsp;<b>Check Suica Balance</b></label><br /><input class="box" type="checkbox" name="152" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br /><input class="box" type="checkbox" name="153" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br /><input class="box" type="checkbox" name="154" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br /><input class="box" type="checkbox" name="155" /><label type="text" class="strikethrough"> <b>Placeholder</b></label></div>
+<div><input class="box" type="checkbox" name="151" /><label type="text" class="strikethrough">&nbsp;<b>Check Suica Balance</b></label><br /></div>
 
 ## Travel Information
 
-![](/uploads/versions/harajuku---x----717-349x---.PNG)
+[![](/uploads/versions/harajuku---x----717-349x---.PNG)](http://maki.host/uploads/versions/harajuku---x----717-349x---.PNG)
 
-![](/uploads/versions/roppongi---x----716-501x---.PNG)
+[![](/uploads/versions/roppongi---x----716-501x---.PNG)](http://maki.host/uploads/versions/roppongi---x----716-501x---.PNG)
 
-![](/uploads/versions/yushima---x----714-500x---.PNG)
+[![](/uploads/versions/yushima---x----714-500x---.PNG)](http://maki.host/uploads/versions/yushima---x----714-500x---.PNG)
 
 ## Sightseeing
 
