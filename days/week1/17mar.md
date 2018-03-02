@@ -12,7 +12,13 @@ published: true
 
 ## Travel info
 
-Placeholder
+Cost: 140 yen
+
+![](/uploads/versions/ghibli-museum---x----367-324x---.PNG)
+
+Approximately every 8 minutes:
+
+## ![](/uploads/versions/ghiblitoshibuya---x----372-255x---.PNG)
 
 ## Sightseeing
 
