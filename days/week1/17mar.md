@@ -18,7 +18,7 @@ Placeholder
 
 * Breakfast at home
 * Ghibli museum 10am-6pm
-* Tokyo tower (4:45-5pm Tour)
+* Tokyo tower (7-15pm Tour)<br>- Diamond veil light display 8-10pm
 
 ---
 
