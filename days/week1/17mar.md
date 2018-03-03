@@ -8,7 +8,7 @@ published: true
 
 ## Information
 
-<div><input class="box" type="checkbox" name="171" /><label type="text" class="strikethrough"> <b>Exchange Ghibli Museum voucher for ticket</b></label><br /><input class="box" type="checkbox" name="172" /><label type="text" class="strikethrough"> <b>Check Suica balance</b></label><br /><input class="box" type="checkbox" name="173" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br /><input class="box" type="checkbox" name="174" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br /><input class="box" type="checkbox" name="175" /><label type="text" class="strikethrough"> <b>Placeholder</b></label></div>
+<div><input class="box" type="checkbox" name="171" /><label type="text" class="strikethrough"> <b>Exchange Ghibli Museum voucher for ticket</b></label><br /><input class="box" type="checkbox" name="172" /><label type="text" class="strikethrough"> <b>Check Suica balance</b></label><br /><input class="box" type="checkbox" name="173" /><label type="text" class="strikethrough">&nbsp;<b>Check into Hotel (4pm-12am)</b></label><br /><input class="box" type="checkbox" name="174" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br /><input class="box" type="checkbox" name="175" /><label type="text" class="strikethrough"> <b>Placeholder</b></label></div>
 
 ## Travel info
 
