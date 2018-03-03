@@ -8,11 +8,11 @@ published: true
 
 ## Information
 
-<div><input class="box" type="checkbox" name="151" /><label type="text" class="strikethrough">&nbsp;<b>Check Suica Balance</b></label><br /></div>
+<div><input class="box" type="checkbox" name="151" /><label type="text" class="strikethrough">&nbsp;<b>Check Suica Balance</b></label></div>
 
 ## Travel Information
 
-[![](/uploads/versions/harajuku---x----717-349x---.PNG)](http://maki.host/uploads/versions/harajuku---x----717-349x---.PNG)
+[![](/uploads/versions/yushimatoharajuku---x----354-335x---.PNG)](http://maki.host/uploads/versions/harajuku---x----717-349x---.PNG)
 
 [![](/uploads/versions/roppongi---x----716-501x---.PNG)](http://maki.host/uploads/versions/roppongi---x----716-501x---.PNG)
 
