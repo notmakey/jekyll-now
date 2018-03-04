@@ -4,21 +4,20 @@ title: 18th March (Sunday)
 published: true
 ---
 
-*Japan - Tokyo (Nakano)*
+*Japan - Tokyo (**Suginami-rest day**)*
 
 ### Information
 
-<div><input class="box" type="checkbox" name="181" /><label type="text" class="strikethrough"> <b>Check out 10am</b></label><br /><input class="box" type="checkbox" name="182" /><label type="text" class="strikethrough">&nbsp;<b>Check Suica Balance</b></label><br /><input class="box" type="checkbox" name="183" /><label type="text" class="strikethrough"> <b>Pack luggage</b></label><br /><input class="box" type="checkbox" name="184" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br /><input class="box" type="checkbox" name="185" /><label type="text" class="strikethrough"> <b>Placeholder</b></label></div>
+<div><input class="box" type="checkbox" name="181" /><label type="text" class="strikethrough"> <b>Check out 10am</b></label><br /><input class="box" type="checkbox" name="182" /><label type="text" class="strikethrough">&nbsp;<b>Check Suica Balance</b></label><br /><input class="box" type="checkbox" name="183" /><label type="text" class="strikethrough"> <b>Pack luggage</b></label><br /><input class="box" type="checkbox" name="184" /><label type="text" class="strikethrough"> <b>Cash out (if needed)</b></label><br /><input class="box" type="checkbox" name="185" /><label type="text" class="strikethrough"> <b>Placeholder</b></label></div>
 
 ## Travel info
 
-Placeholder
+![](/uploads/versions/tamtohama---x----361-599x---.PNG)
 
 ## Sightseeing
 
-* Breakfast at home
-* Nakano broadway 11AM-8PM
-* Pack at night
+* Explore Hamadayama area
+* Read a book by the river/park
 
 ---
 
