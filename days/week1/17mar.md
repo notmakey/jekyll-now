@@ -17,7 +17,7 @@ published: true
 
 ![](/uploads/versions/ghibli-museum---x----367-324x---.PNG)
 
-Approximately every 9 minutes:
+Approximately every 8 minutes:
 
 ## ![](/uploads/versions/hiblitohama---x----351-269x---.PNG)
 
