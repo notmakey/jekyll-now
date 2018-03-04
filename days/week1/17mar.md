@@ -4,7 +4,7 @@ title: 17th March (Saturday) 🎂
 published: true
 ---
 
-*Japan - Mitaka*
+*Japan - **Mitaka***
 
 ## Information
 
@@ -25,7 +25,6 @@ Approximately every 8 minutes:
 
 ## Sightseeing
 
-* Breakfast at home
 * Ghibli museum 10am-6pm
 * Explore Kichijoji area<br>- return home to pick up essentials for the night
 * Explore around Tokyo Tower area
