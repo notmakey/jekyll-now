@@ -12,13 +12,20 @@ published: true
 
 ## Travel info
 
-Sannomiya to Kei Computer-Mae Station
+Sannomiya to Kei Computer-Mae Station<br>Kei Computer-Mae Station to Boeki Center Station
 
 ![](/uploads/versions/akashieanimalking---x----879-317x---.PNG)![](/uploads/versions/kobeportliner---x----570-701x---.PNG)
 
+## ![](/uploads/versions/animalkingtokobe---x----367-529x---.PNG)
+
+## ![](/uploads/versions/kobetoakashi---x----879-229x---.PNG)
+
 ## Sightseeing
 
-* Kobe Animal Kingdom
+* Kobe Animal Kingdom (10am-5pm) 1500 yen
+* Port of Kobe Earthquake Memorial Park
+* Kobe Port Tower (9am-9pm) 700 yen
+* Kobe Harbourland (10am-7pm)
 
 ---
 
