@@ -8,7 +8,7 @@ published: true
 
 ### Information
 
-<div><input class="box" type="checkbox" name="181" /><label type="text" class="strikethrough"> <b>Check out 10am</b></label><br /><input class="box" type="checkbox" name="182" /><label type="text" class="strikethrough">&nbsp;<b>Check Suica Balance</b></label><br /><input class="box" type="checkbox" name="183" /><label type="text" class="strikethrough"> <b>Pack luggage</b></label><br /><input class="box" type="checkbox" name="184" /><label type="text" class="strikethrough"> <b>Cash out (if needed)</b></label><br /><input class="box" type="checkbox" name="185" /><label type="text" class="strikethrough"> <b>Placeholder</b></label></div>
+<div><input class="box" type="checkbox" name="181" /><label type="text" class="strikethrough"> <b>Check out 10am</b></label><br /><input class="box" type="checkbox" name="182" /><label type="text" class="strikethrough">&nbsp;<b>Check Suica Balance</b></label><br /><input class="box" type="checkbox" name="183" /><label type="text" class="strikethrough">&nbsp;<b>Pack suitcase</b></label><br /><input class="box" type="checkbox" name="184" /><label type="text" class="strikethrough"> <b>Cash out (if needed)</b></label><br /><input class="box" type="checkbox" name="185" /><label type="text" class="strikethrough"> <b>Small grocery shop?</b></label></div>
 
 ## Travel info
 
