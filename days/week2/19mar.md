@@ -19,6 +19,7 @@ published: true
 ## Sightseeing
 
 * Akashi castle ruins (24hrs)
+* Shopping Mall (9am-9pm)
 
 ---
 
