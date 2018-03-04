@@ -4,7 +4,7 @@ title: 19th March (Monday)
 published: true
 ---
 
-*Japan - Akashi*
+*Japan - **Akashi***
 
 ## Information
 
