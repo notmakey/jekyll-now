@@ -20,6 +20,7 @@ published: true
 
 * Akashi castle ruins (24hrs)
 * Shopping Mall- Piore Akashi (9am-9pm)<br>- Muji<br>- Bookstore<br>- Beauty store
+* Evening walk to Okura Kaigan&nbsp;
 
 ---
 
