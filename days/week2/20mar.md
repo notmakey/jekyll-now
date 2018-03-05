@@ -4,30 +4,35 @@ title: 20th March (Tuesday)
 published: true
 ---
 
-*Japan - **Kobe***
+*Japan - **Hiroshima***
 
 ## Information
 
-<div><input class="box" type="checkbox" name="201" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br /><input class="box" type="checkbox" name="202" /><label type="text" class="strikethrough"> <b>Purchase Portliner Round-trip Train ticket</b></label><br /><input class="box" type="checkbox" name="203" /><label type="text" class="strikethrough"> <b>Buy Kobe Animal Kingdom Ticket</b></label><br /><input class="box" type="checkbox" name="204" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br /><input class="box" type="checkbox" name="205" /><label type="text" class="strikethrough"> <b>Placeholder</b></label></div>
+<div><input class="box" type="checkbox" name="201" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br /><input class="box" type="checkbox" name="202" /><label type="text" class="strikethrough"> </label><br /><input class="box" type="checkbox" name="203" /><label type="text" class="strikethrough"> </label><br /><input class="box" type="checkbox" name="204" /><label type="text" class="strikethrough"> <b>Placeholder</b></label><br /><input class="box" type="checkbox" name="205" /><label type="text" class="strikethrough"> <b>Placeholder</b></label></div>
 
 ## Travel info
 
-Sannomiya to Kei Computer-Mae Station<br>Kei Computer-Mae Station to Boeki Center Station
+![](/uploads/versions/akashihimeji---x----885-236x---.PNG)
 
-![](/uploads/versions/akashieanimalking---x----879-317x---.PNG)![](/uploads/versions/kobeportliner---x----570-701x---.PNG)
+&nbsp;
 
-## ![](/uploads/versions/animalkingtokobe---x----367-529x---.PNG)
+## &nbsp;
 
-## ![](/uploads/versions/kobetoakashi---x----879-229x---.PNG)
+## &nbsp;
+
+## ![](/uploads/versions/himejitohiro---x----879-236x---.PNG)
 
 ## Sightseeing
 
 * Morning & Evening walk to Okura Kaigan
-* Kobe Animal Kingdom (10am-5pm) 1500 yen
-* Port of Kobe Earthquake Memorial Park
-* Kobe Port Tower (9am-9pm) 700 yen
-* Minatogawa Shrine
-* Kobe Harbourland (10am-7pm)
+* Hiroshima Peace Memorial Park
+* Hiroshima Peace Memorial Museum (8:30am-6pm) 50 yen
+* Itsukushima Shrine
+* Hiroshima Orizuru Tower (10am-7pm) 1,700 yen
+
+* Sera Kozan Fureai no Sato
+
+* Maneki-neko Museum and Path of Cats (11am-5pm) 300 yen
 
 ---
 
