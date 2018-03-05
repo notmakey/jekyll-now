@@ -30,6 +30,10 @@ published: true
 * Itsukushima Shrine
 * Hiroshima Orizuru Tower (10am-7pm) 1,700 yen
 
+* Fukuyama Castle
+
+* Hiroshima Castle
+
 * Sera Kozan Fureai no Sato
 
 * Maneki-neko Museum and Path of Cats (11am-5pm) 300 yen
