@@ -4,7 +4,11 @@ title: Useful Info
 permalink: /info/
 ---
 
-&nbsp;
+Reservation for JR Shinkansen:
+
+* Shinkansen no go yoyaku. Tōkyō kara Shin'ōsaka e (Shinkansen Reservation from Tokyo to Shin-Osaka)&nbsp;
+* Hitori (one person)
+* Kin'en (non-smoking)
 
 ![](/uploads/versions/tokyosubway---x----1120-793x---.PNG)
 
