@@ -17,6 +17,8 @@ published: true
 ## Sightseeing
 
 * Relax at Okura Kaigan
+* Genjinotaki Park
+* Hoshida Myoken Shrine
 
 ---
 
