@@ -4,7 +4,7 @@ title: 21st March (Wednesday)
 published: true
 ---
 
-*Japan - Akashi*
+*Japan - **Kobe***
 
 ## Information
 
@@ -12,10 +12,11 @@ published: true
 
 ## Travel info
 
-Placeholder
+![](/uploads/versions/akashitomaiko---x----875-225x---.PNG)
 
 ## Sightseeing
 
+* Akashi Kaikyo Bridge<br>- Exhibition Center (9:15am-5pm) 310yen<br>- Maiko Marine Promenade (9am-6pm) 250 yen
 * Shin-Kobe Ropeway + Mount Maya
 
 ---
