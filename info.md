@@ -10,7 +10,7 @@ Reservation for JR Shinkansen:
 * Hitori (one person)
 * Kin'en (non-smoking)
 
-Tokt
+Tokyo Subway:
 
 ![](/uploads/versions/tokyosubway-1---x----1120-793x---.PNG)
 
