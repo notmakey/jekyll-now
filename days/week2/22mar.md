@@ -17,8 +17,7 @@ published: true
 ## Sightseeing
 
 * Relax at Okura Kaigan before taking train
-* Genjinotaki Park
-* Hoshida Myoken Shrine
+* Explore nearby area<br>- Genjinotaki Park<br>- Hoshida Myoken Shrine
 
 ---
 
