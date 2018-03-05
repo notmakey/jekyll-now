@@ -22,6 +22,7 @@ Sannomiya to Kei Computer-Mae Station<br>Kei Computer-Mae Station to Boeki Cente
 
 ## Sightseeing
 
+* Morning & Evening walk to Okura Kaigan
 * Kobe Animal Kingdom (10am-5pm) 1500 yen
 * Port of Kobe Earthquake Memorial Park
 * Kobe Port Tower (9am-9pm) 700 yen
