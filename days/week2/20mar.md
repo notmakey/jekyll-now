@@ -14,13 +14,11 @@ published: true
 
 ![](/uploads/versions/akashihimeji---x----885-236x---.PNG)
 
-&nbsp;
-
-## &nbsp;
-
-## &nbsp;
-
 ## ![](/uploads/versions/himejitohiro---x----879-236x---.PNG)
+
+## ![](/uploads/versions/hiroshimatohimeji---x----880-240x---.PNG)
+
+## ![](/uploads/versions/himejitoakashi---x----880-235x---.PNG)
 
 ## Sightseeing
 
@@ -29,13 +27,9 @@ published: true
 * Hiroshima Peace Memorial Museum (8:30am-6pm) 50 yen
 * Itsukushima Shrine
 * Hiroshima Orizuru Tower (10am-7pm) 1,700 yen
-
 * Fukuyama Castle
-
 * Hiroshima Castle
-
-* Sera Kozan Fureai no Sato
-
+* ​​​​​​​Sera Kozan Fureai no Sato
 * Maneki-neko Museum and Path of Cats (11am-5pm) 300 yen
 
 ---
