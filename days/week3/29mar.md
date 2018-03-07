@@ -18,7 +18,7 @@ Japan- **Fujinomiya**
 
 ### Sightseeing
 
-* Placeholder
+* Explore nearby area
 
 ---
 
