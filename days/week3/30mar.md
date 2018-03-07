@@ -4,7 +4,7 @@ title: 30th March (Friday)
 published: true
 ---
 
-\_\_
+Japan- **Fujinomiya**
 
 ### Information
 
@@ -17,6 +17,7 @@ Placeholder
 ### Sightseeing
 
 * Drive to Lake for Sunrise Mt Fuji View
+* Explore Fujinomiya
 
 ---
 
