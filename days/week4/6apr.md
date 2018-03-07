@@ -3,20 +3,21 @@ layout: page
 title: (Monday)
 published: true
 ---
-__
+
+\_\_
 
 ### Information
 
-- Placeholder
+* Sagawa Temporary Baggage Storage Service
 
 ### Travel info
 
-Placeholder
+![](/uploads/versions/chogototokyo---x----878-423x---.PNG)
 
 ### Sightseeing
 
-- Placeholder
+* Placeholder
 
-<hr>
+---
 
-↪ [  (Tuesday)](/days/week3/apr)
+↪ [ (Tuesday)](/days/week3/apr)
