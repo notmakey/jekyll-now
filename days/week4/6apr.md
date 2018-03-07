@@ -9,6 +9,7 @@ published: true
 ### Information
 
 * Sagawa Temporary Baggage Storage Service
+* pickup Bts ticket?
 
 ### Travel info
 
