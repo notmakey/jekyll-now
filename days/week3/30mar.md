@@ -3,11 +3,12 @@ layout: page
 title: 30th March (Friday)
 published: true
 ---
-__
+
+\_\_
 
 ### Information
 
-- Placeholder
+* Placeholder
 
 ### Travel info
 
@@ -15,8 +16,8 @@ Placeholder
 
 ### Sightseeing
 
-- Placeholder
+* Drive to Lake for Sunrise Mt Fuji View
 
-<hr>
+---
 
 ↪ [31st March (Saturday)](/days/week3/31mar)
