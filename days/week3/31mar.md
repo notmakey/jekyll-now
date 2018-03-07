@@ -3,11 +3,12 @@ layout: page
 title: 31st March (Saturday)
 published: true
 ---
-__
+
+Japan- **Fujinomiya**
 
 ### Information
 
-- Placeholder
+* Placeholder
 
 ### Travel info
 
@@ -15,8 +16,9 @@ Placeholder
 
 ### Sightseeing
 
-- Placeholder
+* Drive to Lake for Sunrise Mt Fuji View
+* Explore Fujinomiya
 
-<hr>
+---
 
 ↪ [1st April (Sunday)](/days/week3/1apr)
