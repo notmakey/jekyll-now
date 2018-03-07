@@ -3,20 +3,21 @@ layout: page
 title: 28th March (Wednesday)
 published: true
 ---
-__
+
+\_\_
 
 ### Information
 
-- Placeholder
+* Placeholder
 
 ### Travel info
 
-Placeholder
+Refer to [27th March](/days/week3/27mar/)
 
 ### Sightseeing
 
-- Placeholder
+* Placeholder
 
-<hr>
+---
 
 ↪ [29th March (Thursday)](/days/week3/29mar)
