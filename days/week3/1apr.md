@@ -9,6 +9,7 @@ published: true
 ### Information
 
 * Buy ticket for train to Chogo
+* Check in 2pm
 
 ### Travel info
 
