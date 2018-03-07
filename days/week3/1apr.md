@@ -3,20 +3,23 @@ layout: page
 title: 1st April (Sunday)
 published: true
 ---
-__
+
+\_\_
 
 ### Information
 
-- Placeholder
+* Buy ticket for train to Chogo
 
 ### Travel info
 
-Placeholder
+![](/uploads/versions/fujitofujisawa---x----869-431x---.PNG)
+
+### ![](/uploads/versions/fujisawa-tochogo---x----877-230x---.PNG)
 
 ### Sightseeing
 
-- Placeholder
+* Placeholder
 
-<hr>
+---
 
-↪ [  (Tuesday)](/days/week3/apr)
+↪ [ (Tuesday)](/days/week3/apr)
