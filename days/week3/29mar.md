@@ -3,20 +3,23 @@ layout: page
 title: 29th March (Thursday)
 published: true
 ---
-__
+
+Japan- **Fujinomiya**
 
 ### Information
 
-- Placeholder
+* Placeholder
 
 ### Travel info
 
-Placeholder
+![](/uploads/versions/kawachitoshinokas---x----880-460x---.PNG)
+
+### ![](/uploads/versions/shin-osakatofuji---x----879-438x---.PNG)
 
 ### Sightseeing
 
-- Placeholder
+* Placeholder
 
-<hr>
+---
 
 ↪ [30th March (Friday)](/days/week3/30mar)
