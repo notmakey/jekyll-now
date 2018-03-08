@@ -1,7 +1,12 @@
 <ul id="example2">
 <li><a href="javascript:void 0" onclick="TreeMenu.toggle(this)">JavaScript</a>
   <ul>
-  <li><a href='http://javascript.internet.com/'>JavaScript Source</a></li>
+  <li class="cl">       <div>
+                        <p>
+              <a href="/days/week2/19mar/" class="sc">&#9658;</a>
+              <a href="/days/week2/19mar/">19th March (Monday)</a>
+            </p>
+          </div></li>
   <li><a href='http://www.webreference.com/js/'>WebReference JavaScript Articles</a></li>
   <li><a href='http://www.javascript.com/'>JavaScript.com</a></li>
   </ul>
