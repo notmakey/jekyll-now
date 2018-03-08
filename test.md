@@ -1,7 +1,7 @@
 <div class="treeview">
 <ul>
 <li>
-<div><p><a href="#" class="sc" onclick="TreeMenu.toggle(this)">&#9660;</a>
+<div><p><a href="javascript:void 0" class="sc" onclick="TreeMenu.toggle(this)">&#9660;</a>
                 <a href="#">Week 1 (12th - 18th)</a></p></div>
             <ul>
                 <li class="cl">
