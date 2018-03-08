@@ -1,52 +1,36 @@
-<script type="text/javascript">
-    function toggle( eThis ){
-        if( eThis.innerHTML.charCodeAt(0) == 9658 ){
-            eThis.innerHTML = '&#9660;'
-            eThis.parentNode.parentNode.parentNode.className = '';
-        }else{
-            eThis.innerHTML = '&#9658;'
-            eThis.parentNode.parentNode.parentNode.className = 'cl';
-        }
-        return false;
-    }
-</script>
 
-<ul id="example2">
-<li><a href="javascript:void 0" onclick="TreeMenu.toggle(this)">JavaScript</a>
-  <ul>
-  <li class="cl">       <div>
+<div class="treeview">
+    <ul>
+        <li>
+            <div><p><a href="javascript:void 0" onclick="TreeMenu.toggle(this)">JavaScript>&#9660;</a>
+                <a href="#">Final Days (17th - 19th April)</a></p></div>
+            <ul>
+                <li class="cl">
+                    <div>
                         <p>
-              <a href="/days/week2/19mar/" class="sc">&#9658;</a>
-              <a href="/days/week2/19mar/">19th March (Monday)</a>
+              <a href="/days/korea/17apr/" class="sc">&#9658;</a>
+              <a href="/days/korea/17apr/">17th April (Tuesday)</a>
             </p>
-          </div></li>
-  <li><a href='http://www.webreference.com/js/'>WebReference JavaScript Articles</a></li>
-  <li><a href='http://www.javascript.com/'>JavaScript.com</a></li>
+          </div>
+        </li>
+         <li class="cl">
+          <div>
+            <p>
+              <a href="/days/week6/18apr/" class="sc">&#9658;</a>
+              <a href="/days/week6/18apr/">18th April (Wednesday)</a>
+            </p>
+          </div>
+        </li>
+                 <li class="cl">
+          <div>
+            <p>
+              <a href="/days/week6/19apr/" class="sc">&#9658;</a>
+              <a href="/days/week6/19apr/">19th April (Thursday)</a>
+            </p>
+          </div>
+        </li>
+      </ul>
+    </li>
   </ul>
-</li>
-<li><a href="javascript:void 0" onclick="TreeMenu.toggle(this)">Web Development</a>
-  <ul>
-  <li><a href='http://www.webreference.com/'>Web Reference</a></li>
-  <li><a href='http://www.webdeveloper.com/'>Web Developer</a></li>
-  <li><a href='http://wdvl.com/'>WDVL</a></li>
-  </ul>
-</li>
-<li><a href="javascript:void 0" onclick="TreeMenu.toggle(this)">Forums</a>
-  <ul>
-  <li><a href='http://www.webdeveloper.com/forum/forumdisplay.php?s=&forumid=5'>XML</a></li>
-  <li><a href='http://www.webdeveloper.com/forum/forumdisplay.php?s=&forumid=2'>HTML</a></li>
-  <li><a href='http://www.webdeveloper.com/forum/forumdisplay.php?s=&forumid=3'>JavaScript</a></li>
-  <li><a href='http://www.webdeveloper.com/forum/forumdisplay.php?s=&forumid=4'>Perl</a></li>
-  <li><a href='http://www.webdeveloper.com/forum/forumdisplay.php?s=&forumid=16'>PHP</a></li>
-  </ul>
-</li>
-<li><a href="javascript:void 0" onclick="TreeMenu.toggle(this)">Miscellaneous Web Sites</a>
-  <ul>
-  <li><a href='http://www.thecounter.com/'>The Counter</a></li>
-  <li><a href='http://www.theguestbook.com/'>The Guestbook</a></li>
-  <li><a href='http://www.thelist.com/'>The List of ISPs</a></li>
-  <li><a href='http://jobs.internet.com/'>Internet Jobs</a></li>
-  </ul>
-</li>
-</ul>
-<script type="text/javascript">make_tree_menu('example2',1)</script>
+    <script type="text/javascript">make_tree_menu('example2',1)</script>
+</div>
