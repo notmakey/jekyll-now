@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2nd April (Tuesday)
+title: 2nd April (Monday)
 published: true
 ---
 __
@@ -19,4 +19,4 @@ Placeholder
 
 <hr>
 
-↪ [3rd April (Wednesday)](/days/week4/3apr)
+↪ [3rd April (Tuesday)](/days/week4/3apr)

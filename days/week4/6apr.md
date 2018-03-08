@@ -1,6 +1,6 @@
 ---
 layout: page
-title: (Monday)
+title: 6th April (Friday)
 published: true
 ---
 
@@ -21,4 +21,4 @@ published: true
 
 ---
 
-↪ [ (Tuesday)](/days/week3/apr)
+↪ [7th April (Saturday)](/days/week4/7apr)
