@@ -2,7 +2,7 @@
     <ul>
         <li>
             <div><p><a href="javascript:void 0" onclick="TreeMenu.toggle(this)"</a>
-                <a href="javascript:void 0" onclick="TreeMenu.toggle(this)">Final Days (17th - 19th April)</a></p></div>
+                <a href="#">Final Days (17th - 19th April)</a></p></div>
             <ul>
                 <li class="cl">
                     <div>
