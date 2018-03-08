@@ -3,20 +3,23 @@ layout: page
 title: 17th April (Tuesday)
 published: true
 ---
-__
+
+\_\_
 
 ### Information
 
-- Placeholder
+* Placeholder
 
 ### Travel info
 
-Placeholder
+![](/uploads/versions/korea-ewha-bus-stop---x----743-851x---.PNG)
+
+### &nbsp;
 
 ### Sightseeing
 
-- Placeholder
+* Placeholder
 
-<hr>
+---
 
 ↪ [18th April (Wednesday)](/days/week6/18apr)
