@@ -14,6 +14,10 @@ Japan **(Narita)**- South Korea **(Incheon)**
 
 Refer to bus timetable to Narita Airport
 
+&nbsp;
+
+Purchase Ticket at Ticket Counter next to B<br>Ewha University is 6th stop
+
 ![](/uploads/versions/limobuskorea---x----740-685x---.PNG)
 
 ### ![](/uploads/versions/incheonbustimetable---x----732-831x---.PNG)
