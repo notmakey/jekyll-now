@@ -12,7 +12,13 @@ Japan **(Narita)**- South Korea **(Incheon)**
 
 ### Travel info
 
-refer to bus timetable
+Refer to bus timetable to Narita Airport
+
+![](/uploads/versions/limobuskorea---x----740-685x---.PNG)
+
+### ![](/uploads/versions/incheonbustimetable---x----732-831x---.PNG)
+
+Refer to Screenshots of route to hotel.
 
 ### Sightseeing
 
