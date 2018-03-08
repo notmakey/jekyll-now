@@ -1,8 +1,17 @@
 <div class="treeview">
-<ul id="example2">
-<li><a href="javascript:void 0" onclick="TreeMenu.toggle(this)">JavaScript</a>
-  <ul>
-  <li class="cl"><a href='http://javascript.internet.com/'>JavaScript Source</a></li>
+<ul>
+<li>
+<div><p><a href="#" class="sc" onclick="TreeMenu.toggle(this)">&#9660;</a>
+                <a href="#">Week 1 (12th - 18th)</a></p></div>
+            <ul>
+                <li class="cl">
+                    <div>
+                        <p>
+              <a href="/days/week1/12mar/" class="sc">&#9658;</a>
+              <a href="/days/week1/12mar/">12th March (Monday)</a>
+            </p>
+          </div>
+        </li>
   <li class="cl"><a href='http://www.webreference.com/js/'>WebReference JavaScript Articles</a></li>
   <li class="cl"><a href='http://www.javascript.com/'>JavaScript.com</a></li>
   </ul>
