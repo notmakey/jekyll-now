@@ -1,21 +1,5 @@
 <div class="treeview">
 <ul>
-<li>
-<div><p><a href="javascript:void 0" class="sc" onclick="TreeMenu.toggle(this)">&#9660;</a>
-                <a href="#">Week 1 (12th - 18th)</a></p></div>
-            <ul>
-                <li class="cl">
-                    <div>
-                        <p>
-              <a href="/days/week1/12mar/" class="sc">&#9658;</a>
-              <a href="/days/week1/12mar/">12th March (Monday)</a>
-            </p>
-          </div>
-        </li>
-  <li class="cl"><a href='http://www.webreference.com/js/'>WebReference JavaScript Articles</a></li>
-  <li class="cl"><a href='http://www.javascript.com/'>JavaScript.com</a></li>
-  </ul>
-</li>
 <li><a href="javascript:void 0" onclick="TreeMenu.toggle(this)">Web Development</a>
   <ul>
   <li><a href='http://www.webreference.com/'>Web Reference</a></li>
@@ -43,4 +27,39 @@
 </ul>
 <script type="text/javascript">make_tree_menu('example2',1)</script>
   </div>
+  
+  <div class="treeview">
+    <ul>
+        <li>
+            <div><p><a href="#" class="sc" onclick="return UnHide(this)">&#9660;</a>
+                <a href="#">Final Days (17th - 19th April)</a></p></div>
+            <ul>
+                <li class="cl">
+                    <div>
+                        <p>
+              <a href="/days/korea/17apr/" class="sc">&#9658;</a>
+              <a href="/days/korea/17apr/">17th April (Tuesday)</a>
+            </p>
+          </div>
+        </li>
+         <li class="cl">
+          <div>
+            <p>
+              <a href="/days/week6/18apr/" class="sc">&#9658;</a>
+              <a href="/days/week6/18apr/">18th April (Wednesday)</a>
+            </p>
+          </div>
+        </li>
+                 <li class="cl">
+          <div>
+            <p>
+              <a href="/days/week6/19apr/" class="sc">&#9658;</a>
+              <a href="/days/week6/19apr/">19th April (Thursday)</a>
+            </p>
+          </div>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</div>
 
