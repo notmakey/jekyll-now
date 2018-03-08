@@ -2,7 +2,7 @@
 <div class="treeview">
     <ul>
         <li>
-            <div><p><a href="javascript:void 0" onclick="TreeMenu.toggle(this)">JavaScript>&#9660;</a>
+            <div><p><a href="#" class="sc" onclick="TreeMenu.toggle(this)">JavaScript>&#9660;</a>
                 <a href="#">Final Days (17th - 19th April)</a></p></div>
             <ul>
                 <li class="cl">
