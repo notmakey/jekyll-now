@@ -23,4 +23,4 @@ published: true
 
 ---
 
-↪ [ (Tuesday)](/days/week3/apr)
+↪ [2nd April (Monday)](/days/week4/2apr)
