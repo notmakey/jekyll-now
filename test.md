@@ -1,9 +1,9 @@
 <ul id="example2">
 <li><a href="javascript:void 0" onclick="TreeMenu.toggle(this)">JavaScript</a>
   <ul>
-  <li><a href='http://javascript.internet.com/'>JavaScript Source</a></li>
-  <li><a href='http://www.webreference.com/js/'>WebReference JavaScript Articles</a></li>
-  <li><a href='http://www.javascript.com/'>JavaScript.com</a></li>
+  <li class="cl"><a href='http://javascript.internet.com/'>JavaScript Source</a></li>
+  <li class="cl"><a href='http://www.webreference.com/js/'>WebReference JavaScript Articles</a></li>
+  <li class="cl"><a href='http://www.javascript.com/'>JavaScript.com</a></li>
   </ul>
 </li>
 <li><a href="javascript:void 0" onclick="TreeMenu.toggle(this)">Web Development</a>
