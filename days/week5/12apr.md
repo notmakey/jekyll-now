@@ -3,20 +3,21 @@ layout: page
 title: 12th April (Thursday)
 published: true
 ---
-__
+
+Japan **(Narita)**- South Korea **(Incheon)**
 
 ### Information
 
-- Placeholder
+* Placeholder
 
 ### Travel info
 
-Placeholder
+refer to bus timetable
 
 ### Sightseeing
 
-- Placeholder
+* Placeholder
 
-<hr>
+---
 
 ↪ [13th April (Friday)](/days/korea/13apr)
