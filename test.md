@@ -1,3 +1,4 @@
+<div class="treeview">
 <ul id="example2">
 <li><a href="javascript:void 0" onclick="TreeMenu.toggle(this)">JavaScript</a>
   <ul>
@@ -32,4 +33,5 @@
 </li>
 </ul>
 <script type="text/javascript">make_tree_menu('example2',1)</script>
+  </div>
 
