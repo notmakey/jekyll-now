@@ -31,5 +31,6 @@
       </ul>
     </li>
   </ul>
+    <script type="text/javascript">make_tree_menu('example2',1)</script>
 </div>
 
