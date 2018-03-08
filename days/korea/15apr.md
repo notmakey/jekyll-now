@@ -19,4 +19,4 @@ Placeholder
 
 <hr>
 
-↪ [16th April (Monday)](/days/week3/apr)
+↪ [16th April (Monday)](/days/korea/16apr)
