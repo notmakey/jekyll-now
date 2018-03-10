@@ -4,6 +4,14 @@ title: Useful Info
 permalink: /info/
 ---
 
+Tokyo Station Yaesu South Entrance:
+![](/uploads/tokyostationse.png)
+JR Expressway Bus Platform No.7 at Tokyo Station in front of Yaesu South Entrance.
+
+
+Narita Airport
+![](/uploads/narita_airport_map_en.png)
+
 Reservation for JR Shinkansen:
 
 * Shinkansen no go yoyaku. Tōkyō kara Shin'ōsaka e (Shinkansen Reservation from Tokyo to Shin-Osaka)&nbsp;
